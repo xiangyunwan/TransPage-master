@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\android_github\\TransPage-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\android_github\\TransPage-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\android_github\\TransPage-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\page_layout.xml",
+        "source": "D:\\android_github\\TransPage-master1\\app\\src\\main\\res\\layout\\page_layout.xml"
+    },
+    {
+        "merged": "D:\\android_github\\TransPage-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\android_github\\TransPage-master1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\android_github\\TransPage-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\page_layout.xml",
+        "source": "D:\\android_github\\TransPage-master\\app\\src\\main\\res\\layout\\page_layout.xml"
+    }
+]
